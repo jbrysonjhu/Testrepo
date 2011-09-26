@@ -1,2 +1,2 @@
 "Hello World" 
-author john
+author john, paul
